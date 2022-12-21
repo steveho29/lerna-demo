@@ -1,6 +1,6 @@
 {
   "name": "remixapp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -8,13 +8,13 @@
     "test": "echo passed!"
   },
   "dependencies": {
+    "@demo/footer": "^1.0.0",
+    "@demo/header": "^1.0.0",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
     "@remix-run/serve": "^1.5.1",
     "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "@demo/header": "*",
-    "@demo/footer": "*"
+    "react-dom": "18.1.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.5.1",
