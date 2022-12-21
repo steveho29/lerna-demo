@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@demo/footer",
   "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {

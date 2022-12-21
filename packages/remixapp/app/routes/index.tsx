@@ -1,5 +1,5 @@
-import {Header} from 'header';
-import {Footer} from 'footer';
+import {Header} from '@demo/header';
+import {Footer} from '@demo/footer';
 
 export default function Index() {
     return (
