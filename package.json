@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^6.1.0"
+  },
+  "workspaces": [
+    "footer",
+    "header",
+    "remixapp"
+  ]
+}
