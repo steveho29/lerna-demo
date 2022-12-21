@@ -5,6 +5,7 @@ export function Footer() {
         <footer>
             Footer
             More
+            More
         </footer>
     );
 }
