@@ -1,6 +1,6 @@
 {
   "name": "remixapp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -8,7 +8,7 @@
     "test": "echo passed!"
   },
   "dependencies": {
-    "@demo/footer": "^1.0.0",
+    "@demo/footer": "^2.0.0",
     "@demo/header": "^1.0.0",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
