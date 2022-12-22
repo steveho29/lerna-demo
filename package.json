@@ -5,6 +5,8 @@
     "lerna": "^6.1.0"
   },
   "workspaces": [
-    "packages/*"
+    "header/",
+    "footer/",
+    "remixapp/" 
   ]
 }
