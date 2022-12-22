@@ -4,7 +4,7 @@ export function Footer() {
     return (
         <footer>
             Footer
-            More
+            More V2
         </footer>
     );
 }
