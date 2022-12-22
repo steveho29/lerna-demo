@@ -1,5 +1,6 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "useWorkspaces": true,
+  "message": "chore(release): publish",
   "version": "independent"
 }
